@@ -7,10 +7,9 @@ The objective of this project is to enhance the segmentation model's accuracy by
 
 # cite
 @misc{Iakubovskii:2019,
-  Author = {Pavel Iakubovskii},
-  Title = {Segmentation Models Pytorch},
-  Year = {2019},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/qubvel/segmentation_models.pytorch}}
+  author = {Pavel Iakubovskii},
+  title = {Segmentation Models Pytorch},
+  year = {2019},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/qubvel/segmentation_models.pytorch}},
 }
