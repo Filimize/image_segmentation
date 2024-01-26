@@ -5,7 +5,7 @@ The objective of this project is to enhance the segmentation model's accuracy by
 2. `MERGE_DATA.ipynb`: A code file focused on merging folders.
 3. `SEGMENTATION_MODEL.ipynb`: A code file dedicated to building or utilizing a segmentation model.
 
-#cite
+# cite
 @misc{Iakubovskii:2019,
   Author = {Pavel Iakubovskii},
   Title = {Segmentation Models Pytorch},
